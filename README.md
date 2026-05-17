@@ -5,7 +5,7 @@
 ---
 
 <div align="center">  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FFFF&center=true&vCenter=true&width=435&lines=𝚭𝚵𝚼𝚴𝚰-𝚩𝚰𝚮+𝐒𝐘𝐒𝐓𝐄𝐌+𝐀𝐂𝐓𝐈𝐕𝐀𝐓𝐄𝐃;Powered+by+Ҽղժվ;WhatsApp+Multi-Device+Bot" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FFFF&center=true&vCenter=true&width=435&lines=𝚭𝚵𝚼𝚴𝚰+𝚩𝚰𝚮+𝐒𝐘𝐒𝐓𝐄𝐌+𝐀𝐂𝐓𝐈𝐕𝐀𝐓𝐄𝐃;Powered+by+Ҽղժվ;WhatsApp+Multi-Device+Bot" alt="Typing SVG" />
 </div>
 
 ---
