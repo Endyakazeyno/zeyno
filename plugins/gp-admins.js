@@ -21,7 +21,7 @@ const handler = async (m, { conn, participants, groupMetadata, args, isOwner, is
         handler.cooldowns.set(m.sender, now);
     }
 
-    const foto = await conn.profilePictureUrl(m.chat, 'image').catch(_ => null) || './media/menu/varebotcoc.jpg';
+    const foto = await conn.profilePictureUrl(m.chat, 'image').catch(_ => null) || './media/2f025aa02bd16703950afaf16960911d.jpg';
 
     const adminGruppo = participants.filter(p => p.admin);
     const mentionList = adminGruppo.map(p => p.id);
