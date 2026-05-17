@@ -91,5 +91,5 @@ Se hai bisogno di assistenza o vuoi collaborare al progetto:
 <div align="center">  
   <p>Prodotto con ❤️ dal team di 𝚭𝚵𝚼𝚴𝚰</p>  
   <img src="https://img.shields.io/badge/Status-Active-cyan?style=for-the-badge" />  
-  <img src="https://img.shields.io/badge/Access-Public -bright-blue?style=for-the-badge" />  
+  <img src="https://img.shields.io/badge/Access-Public -bright blue?style=for-the-badge" />  
 </div>
