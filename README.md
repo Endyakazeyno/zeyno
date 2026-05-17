@@ -1,4 +1,4 @@
-#📱 𝚭𝚵𝚼𝚴𝚰 𝚩𝚰𝚮 📱
+#📱𝚭𝚵𝚼𝚴𝚰 𝚩𝚰𝚮📱
 
 > **Un bot WhatsApp di nuova generazione: veloce, modulare e progettato per l'efficienza e il divertimento.**
 
