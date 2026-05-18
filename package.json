@@ -7,13 +7,13 @@
     "name": "zeyno",
     "url": "https://github.com/Endyakazeyno"
   },
-  "homepage": "https://github.com/Endyakazeyno/zeyno561",
+  "homepage": "https://github.com/Endyakazeyno/zeyno",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Endyakazeyno/zeyno561.git"
+    "url": "git+https://github.com/Endyakazeyno/zeyno.git"
   },
   "bugs": {
-    "url": "git+https://github.com/Endyakazeyno/zeyno561/issues"
+    "url": "git+https://github.com/Endyakazeyno/zeyno/issues"
   },
   "keywords": [
     "whatsapp",
