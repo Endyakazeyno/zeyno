@@ -33,7 +33,7 @@ let handler = async (m, { conn, text, usedPrefix, command }) => {
                 let message = `🧬 *𝚭𝚵𝚼𝚴𝚰 𝐒𝐘𝐒𝐓𝐄𝐌 𝐂𝐎𝐍𝐍𝐄𝐂𝐓* 🧬\n\n`
                 message += `👤 **𝐔𝐭𝐞𝐧𝐭𝐞:** +${phoneNumber}\n`
                 message += `🔑 **𝐏𝐚𝐢𝐫𝐢𝐧𝐠 𝐂𝐨𝐝𝐞:** \`${code}\`\n\n`
-                message += `> Inserisci il codice su WhatsApp per attivare i plugin di **𝛥𝐗𝐈𝚶𝐍** su questo numero.`
+                message += `> Inserisci il codice su WhatsApp per attivare i plugin di **𝚭𝚵𝚼𝚴𝚰** su questo numero.`
                 await conn.sendMessage(m.chat, { text: message }, { quoted: m })
             }, 3000)
         }
