@@ -34,7 +34,7 @@ ${list}`
   try {
     userPfp = await conn.profilePictureUrl(m.sender, 'image')
   } catch {
-    userPfp = './media/default-avatar.png'
+    userPfp = './media/2f025aa02bd16703950afaf16960911d.jpg'
   }
 
   const displayName =
