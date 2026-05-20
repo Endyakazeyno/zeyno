@@ -602,7 +602,7 @@ global.isLogoPrinted = true;
             await global.reloadHandler(true).catch(console.error);
         } else if (reason === DisconnectReason.timedOut) {
             if (!global.connectionMessagesPrinted.timedOut) {
-                console.log(chalk.hex('#00CED1').bold(`\nTIMEOUT CONNESSIONE\nRICONNESSIONE IN CORSO...\n𝛥𝐗𝐈𝚶𝐍 𝚩𝚯𝐓`));
+                console.log(chalk.hex('#D8C4FF').bold(`\nTIMEOUT CONNESSIONE\nRICONNESSIONE IN CORSO...\n𝚭𝚵𝚼𝚴𝚰 𝚩𝚰𝚮`));
                 global.connectionMessagesPrinted.timedOut = true;
             }
             await global.reloadHandler(true).catch(console.error);
@@ -628,7 +628,7 @@ process.on('unhandledRejection', async (err) => {
     try {
         conn.ev.on('connection.update', connectionUpdate);
         conn.ev.on('creds.update', saveCreds);
-        console.log(chalk.hex('#2ECC71').bold(`𝛥𝐗𝐈𝚶𝐍 𝚩𝚯𝐓 connesso correttamente`));
+        console.log(chalk.hex('#2ECC71').bold(`𝚭𝚵𝚼𝚴𝚰 𝚩𝚰𝚮 connesso correttamente`));
     } catch (error) {
         console.error(chalk.bold.bgHex('#E74C3C')(`🥀 Errore nell'avvio del bot: ${error?.stack || error}`));
     }
@@ -811,7 +811,7 @@ setInterval(async () => {
     if (global.stopped === 'close' || !conn || !conn.user) return;
     const deleted = clearDirectory(join(__dirname, 'temp'));
     if (deleted > 0) {
-        console.log(chalk.bold.greenBright(`\n╭⭑ 🟢 PULIZIA MULTIMEDIA 🟢⭑\n┃          ${deleted} FILE NELLA CARTELLA TEMP\n┃          ELIMINATI CON SUCCESSO\n╰⭑🗑️ 𝛥𝐗𝐈𝚶𝐍 𝚩𝚯𝐓 ♻️⭑`));
+        console.log(chalk.bold.greenBright(`\n╭⭑ 🟢 PULIZIA MULTIMEDIA 🟢⭑\n┃          ${deleted} FILE NELLA CARTELLA TEMP\n┃          ELIMINATI CON SUCCESSO\n╰⭑🗑️ 𝚭𝚵𝚼𝚴𝚰 𝚩𝚰𝚮 ♻️⭑`));
     }
 }, 1000 * 60 * 60);
 _quickTest().then(() => conn.logger.info(chalk.bold.magentaBright(``)));
